@@ -49,7 +49,7 @@ Por útimo, aunque no he eliminado el evento onTap, he cambiado el texto "Click 
 ```
 
 
-El código quedaría así (podéis copiarlo diréctamente en <a href="https://dartpad.dartlang.org" >DartPad</a> y ejecutarlo):
+El código quedaría así (podéis copiarlo diréctamente en <a href="https://dartpad.dartlang.org" target="_blank">DartPad</a> y ejecutarlo):
 
 ```java
 import 'package:flutter/material.dart';
