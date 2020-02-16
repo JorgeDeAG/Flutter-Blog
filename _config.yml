@@ -3,9 +3,11 @@ title: Flutter Directo
 description: Flutter sin rodeos.
 cover: assets/images/fondo.png
 logo: assets/images/logo.png
-favicon: assets/images/favicon.png
+favicon: assets/images/favicon.ico
 baseurl: "" # the subpath of your site, e.g. /blog/ or / for root
 url: "http://flutter.deaguinaga.es" # the base hostname & protocol for your site
+
+paginate: 5
 
 pagination:
 
@@ -20,7 +22,7 @@ pagination:
 # Social
 #facebook: facebook
 #twitter: twitter
-#github:  github
+#github: github
 
 #Additional Pages
 #about: about
@@ -32,7 +34,7 @@ permalink: /:title
 
 
 # Google Analytics
-analytics_id: ""
+analytics_id: "UA-158595161-1"
 
 # Build settings
 markdown: kramdown
@@ -41,7 +43,7 @@ kramdown:
   parse_block_html: true
 
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 
 # Settings for rake task
