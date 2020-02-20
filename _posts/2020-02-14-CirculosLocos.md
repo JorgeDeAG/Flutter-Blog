@@ -2,7 +2,7 @@
 layout: post
 title: Animación 1 - Ejemplo de los círculos
 date: 2020-02-14 23:29:00
-tags: Animation circles example
+tags: animation circles example dartpad
 author: jorge
 ---
 Partiendo del ejemplo <a href="https://dartpad.dartlang.org/40308e0a5f47acba46ba62f4d8be2bf4" target="_blank">"Implicit animations" en DartPad</a>
