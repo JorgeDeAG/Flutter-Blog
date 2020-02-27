@@ -25,3 +25,5 @@ export const triggerEscritura =
 		return;
 	});
 ```
+
+Ver también <a href="https://firebase.google.com/docs/firestore/solutions/counters">Contadores distribu&iacute;dos</a>
